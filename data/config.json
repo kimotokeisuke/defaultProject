@@ -1,0 +1,10 @@
+{
+	"outputDevice" : "Built-in Output",
+	"samplingRate" : "48000",
+	"signalVectorSize" : "2048",
+	"i/oVectorSize" : "1024",
+	"overdriveMode" : "On",
+	"audioInterruptMode" : "Off",
+	"dspStatus" : "On"
+}
+

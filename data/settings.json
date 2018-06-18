@@ -1,0 +1,21 @@
+{
+	"pattrstorage" : 	{
+		"name" : "settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"shutdown" : [ 0.0 ],
+					"shutdown_time" : [ 0.0 ],
+					"bpatcher_osc_receiver::receive_port_num" : [ 7474 ],
+					"bpatcher_osc_receiver::osc_addresses" : [ "/sound/test/test", "/sound/test/test2" ],
+					"bpatcher_osc_receiver::works_name" : [ "test" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
