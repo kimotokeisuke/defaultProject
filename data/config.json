@@ -1,10 +1,9 @@
 {
-	"outputDevice" : "Built-in Output",
+	"outputDevice" : "Fireface UCX (23692075)",
 	"samplingRate" : "48000",
-	"signalVectorSize" : "2048",
-	"i/oVectorSize" : "1024",
-	"overdriveMode" : "On",
+	"i/oVectorSize" : "2048",
+	"signalVectorSize" : "1024",
+	"overdriveMode" : "Off",
 	"audioInterruptMode" : "Off",
 	"dspStatus" : "On"
 }
-
